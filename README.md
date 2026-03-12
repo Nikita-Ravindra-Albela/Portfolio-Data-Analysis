@@ -22,30 +22,11 @@ These repositories include code, Power BI dashboards, and Jupyter notebooks I de
 - [AI Hallucination Risk Analysis] (https://github.com/Nikita-Ravindra-Albela/AI-Hallucination-Risk-Analysis)
 - [SkillMinds-AI](https://example.com](https://github.com/Nikita-Ravindra-Albela/SkillMinds-AI)
 - [Customer Churn Analysis] (https://github.com/Nikita-Ravindra-Albela/Churn-Analysis)
-- [Twitter Sentiment](https://example.com](https://github.com/Nikita-Ravindra-Albela/Twitter-Sentiment-Analysis)
-- [Market Segmentation Analysis](https://example.co](https://github.com/Nikita-Ravindra-Albela/Study-of-U.S-Retail-Market)
-- [Coffee Sales](https://example.com](https://github.com/Nikita-Ravindra-Albela/Coffee-Sales-Dashboard)
-- [Amazon-Prime-Video-Data-Analysis] (https://github.com/Nikita-Ravindra-Albela/-Amazon-Prime-Video-Data-Analysis)
-- [Pareto Analysis] (https://github.com/Nikita-Ravindra-Albela/Pareto-Analysis---Apparel-Company)
-- [Google Playstore] (https://github.com/Nikita-Ravindra-Albela/OIBSIP-Internship-Projects/blob/main/Google%20Playstore.pbix)
-- [Predicting House Price] (https://github.com/Nikita-Ravindra-Albela/OIBSIP-Internship-Projects/blob/main/Predicting%20House%20Prices%20with%20Linear%20Regression.ipynb)
 - [Freemium to Premium] (https://github.com/Nikita-Ravindra-Albela/SkillMinds-AI/blob/main/Freemium_to_Paid_Conversion_Analysis.ipynb)
-- [Blinkit Sales] (https://github.com/Nikita-Ravindra-Albela/Blinkit-Sales-Dashboard-Power-BI-Project)
 - [UK Road Accident Analysis] (https://github.com/Nikita-Ravindra-Albela/UK-Road-Accident-Analysis-Dashboard)
 - [Healthcare financial and Resource Allocation Analysis] (https://github.com/Nikita-Ravindra-Albela/Healthcare-Provider-financial-and-resource-allocation)
-- [Vrinda Sales] (https://github.com/Nikita-Ravindra-Albela/Vrinda-Store-Sales-Analysis)
 - [Automobile Insurance Industry compliants Ranking] (https://github.com/Nikita-Ravindra-Albela/Automobile-Insurance-Industry-Complaints-Ranking)
-- [Financial Performance] (https://github.com/Nikita-Ravindra-Albela/Power-BI-Financial-Performance-Dashboard)
-- [airbnb Analysis] (https://github.com/Nikita-Ravindra-Albela/airbnb-analysis)
 - [Customer Segmentation using K-Means] (https://github.com/Nikita-Ravindra-Albela/Customer-Segmentation-using-K-Means-Clustering)
-- [K-Means for student CGPA & IQ] (https://github.com/Nikita-Ravindra-Albela/-K-Means-Clustering-on-Student-CGPA-and-IQ)
-- [Diwali Sales] (https://github.com/Nikita-Ravindra-Albela/Diwali-Sales-Analysis)
-- [Telco Churn Analysis] (https://github.com/Nikita-Ravindra-Albela/Telco-Customer-Churn-Analysis)
-- [Uber Analysis] (https://github.com/Nikita-Ravindra-Albela/Uber-Analysis)
-- [Customer Segmentation - Adventure Works] (https://github.com/Nikita-Ravindra-Albela/Customer-Segmentation-Analysis---Adventure-Works)
-- [Chocolate Sales - 10 Minute Report] (https://github.com/Nikita-Ravindra-Albela/Chocolate-Sales---10-Minute-Report)
-- [Regression Analysis - Umbrella Company] (https://github.com/Nikita-Ravindra-Albela/Regression-Analysis---The-Umbrella-Company) 
-
 
 # Side Projects
 
@@ -56,14 +37,6 @@ This project is a strategic data analysis case study on customer segmentation an
 This project allowed me to apply my MBA knowledge of market analysis and consumer behavior to real-world data. It studies the drop in mall footfall due to online shopping and provides practical suggestions for retailers to stay competitive in the digital era.
 
 Some key ideas include partnering with e-commerce platforms for local delivery, cross-promotions with food courts and theaters, and multi-layout malls offering shared warehouse spaces to reduce costs for both parties.
-
-
-# Blinkit-Sales-Dashboard-Power-BI-Project
-Description: This project presents a dynamic retail analytics dashboard built in Power BI to analyze sales patterns, outlet performance, and consumer behavior across Blinkit’s wide network of stores. With operations spanning multiple store types, sizes, and locations, Blinkit offers a vast product range making data-driven decision-making essential.
-
-The dashboard identifies key performance drivers such as outlet profitability, product categories, and consumer trends, enabling smarter decisions on inventory management, marketing, and expansion strategies.
-
-Additionally, a Product Relationship Predictive Analysis was conducted to evaluate the impact of Item Weight, Item Visibility, and Customer Rating on sales. The findings suggest that these variables do not strongly predict sales, indicating that Blinkit could focus on visibility optimization and consumer preference analysis to improve revenue and strengthen its market positioning.
 
 # Healthcare Provider Financial and Resource Allocation
 
@@ -88,13 +61,10 @@ Description: The SkillMinds AI Dashboard visualizes synthetic student data to as
 
 Description: This machine learning project analyzes customer behavior and identifies factors influencing conversion from free to paid subscriptions. Using Python (Pandas, Scikit-learn, Matplotlib) for feature engineering and model evaluation, it applies logistic regression and random forest models to predict user upgrade likelihood—supporting targeted marketing and pricing strategies.
 
-# Twitter Sentiment Analysis
+# Sentiment Analysis
 
 Description: A natural language processing (NLP) project that analyzes public sentiment on Twitter using Python, NLTK, and Scikit-learn. It classifies tweets into positive, negative, or neutral sentiments, offering insights for brand reputation and campaign impact analysis.
 
-# Blinkit Sales Dashboard (Power BI Project)
-
-Description: A Power BI dashboard that visualizes Blinkit’s sales, revenue, and delivery performance. It uses KPIs to track top-selling categories, profitability, and store efficiency, supporting decision-making for inventory and marketing optimization.
 
 # UK Road Accident Analysis Dashboard
 
