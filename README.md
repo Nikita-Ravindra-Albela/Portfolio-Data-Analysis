@@ -25,7 +25,6 @@ These repositories include code, Power BI dashboards, and Jupyter notebooks I de
 - [Customer Churn Analysis](https://github.com/Nikita-Ravindra-Albela/Churn-Analysis)
 - [Freemium to Premium](https://github.com/Nikita-Ravindra-Albela/SkillMinds-AI/blob/main/Freemium_to_Paid_Conversion_Analysis.ipynb)
 - [Case Study of U.S Retail Market](https://github.com/Nikita-Ravindra-Albela/Study-of-U.S-Retail-Market)
-- [Healthcare financial and Resource Allocation Analysis](https://github.com/Nikita-Ravindra-Albela/Healthcare-Provider-financial-and-resource-allocation)
 - [Customer Segmentation using K-Means](https://github.com/Nikita-Ravindra-Albela/Customer-Segmentation-using-K-Means-Clustering)
 
 
