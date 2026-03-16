@@ -19,17 +19,17 @@ This repository showcases my projects, skills, and ongoing learning journey in d
 # Featured Projects
 These repositories include code, Power BI dashboards, and Jupyter notebooks I developed during my IABAC certification, internships, and self-learning journey.
 
-- [AI Hallucination Risk Analysis] (https://github.com/Nikita-Ravindra-Albela/AI-Hallucination-Risk-Analysis)
+- [AI Hallucination Risk Analysis](https://github.com/Nikita-Ravindra-Albela/AI-Hallucination-Risk-Analysis)
 - [Books-to-Scrape](https://github.com/Nikita-Ravindra-Albela/Books-to-Scrape---Project)
 - [DFS-Ranks-Automobile-Insurance-Complaints](https://github.com/Nikita-Ravindra-Albela/DFS-Ranks-Automobile-Insurance-Complaints)
-- [SkillMinds-AI](https://example.com](https://github.com/Nikita-Ravindra-Albela/SkillMinds-AI)
-- [Customer Churn Analysis] (https://github.com/Nikita-Ravindra-Albela/Churn-Analysis)
-- [Freemium to Premium] (https://github.com/Nikita-Ravindra-Albela/SkillMinds-AI/blob/main/Freemium_to_Paid_Conversion_Analysis.ipynb)
-- [UK Road Accident Analysis] (https://github.com/Nikita-Ravindra-Albela/UK-Road-Accident-Analysis-Dashboard)
+- [SkillMinds-AI](https://github.com/Nikita-Ravindra-Albela/SkillMinds-AI)
+- [Customer Churn Analysis](https://github.com/Nikita-Ravindra-Albela/Churn-Analysis)
+- [Freemium to Premium](https://github.com/Nikita-Ravindra-Albela/SkillMinds-AI/blob/main/Freemium_to_Paid_Conversion_Analysis.ipynb)
+- [UK Road Accident Analysis](https://github.com/Nikita-Ravindra-Albela/UK-Road-Accident-Analysis-Dashboard)
 - [Case Study of U.S Retail Market](https://github.com/Nikita-Ravindra-Albela/Study-of-U.S-Retail-Market)
-- [Healthcare financial and Resource Allocation Analysis] (https://github.com/Nikita-Ravindra-Albela/Healthcare-Provider-financial-and-resource-allocation)
-- [Automobile Insurance Industry compliants Ranking] (https://github.com/Nikita-Ravindra-Albela/Automobile-Insurance-Industry-Complaints-Ranking)
-- [Customer Segmentation using K-Means] (https://github.com/Nikita-Ravindra-Albela/Customer-Segmentation-using-K-Means-Clustering)
+- [Healthcare financial and Resource Allocation Analysis](https://github.com/Nikita-Ravindra-Albela/Healthcare-Provider-financial-and-resource-allocation)
+- [Automobile Insurance Industry compliants Ranking](https://github.com/Nikita-Ravindra-Albela/Automobile-Insurance-Industry-Complaints-Ranking)
+- [Customer Segmentation using K-Means](https://github.com/Nikita-Ravindra-Albela/Customer-Segmentation-using-K-Means-Clustering)
 
 # Side Projects
 
