@@ -21,6 +21,7 @@ These repositories include code, Power BI dashboards, and Jupyter notebooks I de
 
 - [AI Hallucination Risk Analysis] (https://github.com/Nikita-Ravindra-Albela/AI-Hallucination-Risk-Analysis)
 - [Books-to-Scrape](https://github.com/Nikita-Ravindra-Albela/Books-to-Scrape---Project)
+- [DFS-Ranks-Automobile-Insurance-Complaints](https://github.com/Nikita-Ravindra-Albela/DFS-Ranks-Automobile-Insurance-Complaints)
 - [SkillMinds-AI](https://example.com](https://github.com/Nikita-Ravindra-Albela/SkillMinds-AI)
 - [Customer Churn Analysis] (https://github.com/Nikita-Ravindra-Albela/Churn-Analysis)
 - [Freemium to Premium] (https://github.com/Nikita-Ravindra-Albela/SkillMinds-AI/blob/main/Freemium_to_Paid_Conversion_Analysis.ipynb)
