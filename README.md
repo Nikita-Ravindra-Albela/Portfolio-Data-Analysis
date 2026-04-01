@@ -12,7 +12,7 @@ This repository showcases my projects, skills, and ongoing learning journey in d
 # Featured Projects
 These repositories include code, Power BI dashboards, and Jupyter notebooks I developed during my IABAC certification, internships, and self-learning journey.
 
--[Supply-Chain-Analysis-Case-Study](https://github.com/Nikita-Ravindra-Albela/Supply-Chain-Case-Study)
+- [Supply-Chain-Analysis-Case-Study](https://github.com/Nikita-Ravindra-Albela/Supply-Chain-Case-Study)
 - [Books-to-Scrape](https://github.com/Nikita-Ravindra-Albela/Books-to-Scrape---Project)
 - [DFS-Ranks-Automobile-Insurance-Complaints](https://github.com/Nikita-Ravindra-Albela/DFS-Ranks-Automobile-Insurance-Complaints)
 - [A-B-Testing-Project](https://github.com/Nikita-Ravindra-Albela/A-B-Testing-Project/blob/main/README.md)
