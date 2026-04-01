@@ -4,14 +4,7 @@
 Hi, I'm Nikita! I’m an Aspiring Data Analyst passionate about turning raw data into actionable insights that drive business decisions.
 I have a strong foundation in SQL, Python, Power BI, Tableau, and Excel, and I’m currently pursuing an MBA in Business Analytics, where I combine analytical thinking with strategic business understanding.
 
-My project experience spans sales, resource allocation, healthcare, and growth analytics, focusing on growth optimization, customer segmentation, and performance improvement.
-I bring 0.8 year of hands-on experience through two internships:
-
-🧠 7-month Data Analytics Internship at Rubixe (AI Solutions Company)
-
-📊 1-month Data Analytics Internship at Oasis Infobyte
-
-Both experiences allowed me to apply real-world analytical skills, and I received excellent client feedback for my insights and dashboard designs.
+My project experience spans sales, marketing, resource allocation, healthcare, and growth analytics, focusing on growth optimization, customer segmentation, and performance improvement.
 
 This repository showcases my projects, skills, and ongoing learning journey in data analytics. I’m driven by curiosity, love uncovering patterns in data, and believe in continuous learning. Outside of work, I like to sketch, paint and go on trekks!
 
