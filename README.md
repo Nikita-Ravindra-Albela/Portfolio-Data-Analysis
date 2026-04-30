@@ -8,7 +8,7 @@ My project experience spans sales, marketing, resource allocation, healthcare, a
 
 This repository showcases my projects, skills, and ongoing learning journey in data analytics. I’m driven by curiosity, love uncovering patterns in data, and believe in continuous learning. Outside of work, I like to sketch, paint and go on trekks!
 
-
+ 
 # Featured Projects
 These repositories include code, Power BI dashboards, and Jupyter notebooks I developed during my IABAC certification, internships, and self-learning journey.
 
